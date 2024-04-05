@@ -1,4 +1,6 @@
 ### Hi there 👋
+# 💫 About Me:
+![Intro](https://raw.githubusercontent.com/403Code/403Code/main/picture/intro.svg) </br>
 
 <!--
 **Muzakie-ID/Muzakie-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
