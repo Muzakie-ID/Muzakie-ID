@@ -11,6 +11,6 @@
 <br>
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzakie-ID&theme=github-compact&radius=16" height="auto" alt="by muzakie"/>
-##
+
 ## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmdadbmz) 
