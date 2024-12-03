@@ -1,9 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
 ![Intro](https://raw.githubusercontent.com/Muzakie-ID/Muzakie-ID/main/intro.svg) </br>
-
-##
-<!-- snake graph -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Muzakie-ID/Muzakie-ID/blob/main/github-contribution-grid-snake-dark.svg" /> </br>
@@ -13,7 +10,6 @@
 </div>
 <br>
 <div align="left">
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzakie-ID&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzakie-ID&theme=github-compact&radius=16" height="auto" alt="by muzakie"/>
 
 ## 🌐 Socials: 
