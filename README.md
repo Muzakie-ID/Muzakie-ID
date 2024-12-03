@@ -1,18 +1,20 @@
 ### Hi there 👋
 # 💫 About Me:
-![Intro](https://raw.githubusercontent.com/403Code/403Code/main/picture/intro.svg) </br>
+![Intro](https://raw.githubusercontent.com/Muzakie-ID/Muzakie-ID/main/picture/intro.svg) </br>
 
-<!--
-**Muzakie-ID/Muzakie-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+<!-- snake graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Muzakie-ID/Muzakie-ID/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Muzakie-ID/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/Muzakie-ID/Muzakie-ID/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+</div>
+<br>
+<div align="left">
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzakie-ID&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzakie-ID&theme=github-compact&radius=16" height="auto" alt="by muzakie"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials: 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmdadbmz) 
