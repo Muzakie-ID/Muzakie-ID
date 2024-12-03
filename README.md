@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-![Intro](https://raw.githubusercontent.com/Muzakie-ID/Muzakie-ID/main/picture/intro.svg) </br>
+![Intro](https://raw.githubusercontent.com/Muzakie-ID/Muzakie-ID/main/intro.svg) </br>
 
 ##
 <!-- snake graph -->
