@@ -8,7 +8,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Muzakie-ID/Muzakie-ID/blob/main/github-contribution-grid-snake-dark.svg" /> </br>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Muzakie-ID/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Muzakie-ID/Muzakie-ID/blob/main/github-contribution-grid-snake.svg" />
     <img src="https://github.com/Muzakie-ID/Muzakie-ID/blob/main/github-contribution-grid-snake.svg" alt="github-snake" /> </br>
   </picture>
 </div>
