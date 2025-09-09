@@ -16,3 +16,7 @@
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzakie-ID&theme=github-compact&radius=16" height="auto" alt="by muzakie"/>
 </div>
+<p>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Muzakie-ID">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Muzakie-ID?style=flat&label=Stars&color=%23e3b341">
+</p>
