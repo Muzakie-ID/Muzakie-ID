@@ -4,7 +4,7 @@
 
 ## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muzakkiid) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muzakie-ID&label=Profile%20views&color=0e75b6&style=flat" alt="Muzakie-ID" /> </p>
+
 
 <div align="center">
   <picture>
